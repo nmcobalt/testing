@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="htmls\home.html" />
+    <Content Include="htmls\page.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
